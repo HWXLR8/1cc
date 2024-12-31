@@ -7,4 +7,5 @@ This is a list of games I have completed.
 |--------------+-----------------+------------|
 | Zelda II     | FCEUX 2.6.6     | 2024-12-28 |
 | Ninja Gaiden | Nestopia 1.53.0 | 2024-12-29 |
+| Megaman      | Nestopia 1.53.0 | 2024-12-31 |
 |--------------+-----------------+------------|
