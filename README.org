@@ -11,6 +11,7 @@ This is a list of games I have completed.
 | Mega Man            | USA    | -          | 6ee4bb0a | Nestopia 1.53.0 | 2024-12-31 |
 | Mega Man 2          | USA    | Hard mode  | 0fcfc04d | Nestopia 1.53.0 | 2025-01-02 |
 | Mega Man 3          | USA    | -          | 45134a3e | MiSTer FPGA     | 2025-11-30 |
+| Mega Man 4          | USA    | Rev 1      | 7abbbf23 | MiSTer FPGA     | 2025-12-06 |
 | Street Fighter 2010 | USA    | -          | 361fb3ee | MiSTer FPGA     | 2025-12-02 |
 | Castlevania         | USA    | Rev 1      | 12a6cb14 | MiSTer FPGA     | 2025-12-04 |
 | Metal Storm         | USA    | First loop | 98f030e6 | MiSTer FPGA     | 2025-12-05 |
