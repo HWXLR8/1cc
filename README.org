@@ -17,6 +17,7 @@ This is a list of games I have completed.
 | Metal Storm         | USA            | First loop             | 98f030e6 | MiSTer FPGA     | 2025-12-05 |
 | Super Mario Bros.   | World          | No continues, Warpless | 393a432f | MiSTer FPGA     | 2025-12-08 |
 | Battle Kid          | World (v2.110) | Hard mode, 482 deaths  | de68cfbb | MiSTer FPGA     | 2025-12-21 |
+| Adventures of Lolo  | USA            | -                      | 3d59cddd | MiSTer FPGA     | 2025-12-25 |
 |---------------------+----------------+------------------------+----------+-----------------+------------|
 
 ** N64
