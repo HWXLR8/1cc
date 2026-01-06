@@ -2,23 +2,24 @@ This is a list of games I have completed.
 
 ** NES
 
-|---------------------+----------------+------------------------+----------+-----------------+------------|
-| Game                | Version        | Comment                | CRC      | Platform        |       Date |
-|---------------------+----------------+------------------------+----------+-----------------+------------|
-| Zelda II            | USA            | -                      | ba322865 | FCEUX 2.6.6     | 2024-12-28 |
-| Ninja Gaiden        | USA            | -                      | 7c4a72d8 | Nestopia 1.53.0 | 2024-12-29 |
-| Ninja Gaiden II     | USA            | -                      | 0c39b026 | MiSTer FPGA     | 2025-11-28 |
-| Mega Man            | USA            | -                      | 6ee4bb0a | Nestopia 1.53.0 | 2024-12-31 |
-| Mega Man 2          | USA            | Hard mode              | 0fcfc04d | Nestopia 1.53.0 | 2025-01-02 |
-| Mega Man 3          | USA            | -                      | 45134a3e | MiSTer FPGA     | 2025-11-30 |
-| Mega Man 4          | USA (Rev 1)    | -                      | 7abbbf23 | MiSTer FPGA     | 2025-12-06 |
-| Street Fighter 2010 | USA            | -                      | 361fb3ee | MiSTer FPGA     | 2025-12-02 |
-| Castlevania         | USA (Rev 1)    | -                      | 12a6cb14 | MiSTer FPGA     | 2025-12-04 |
-| Metal Storm         | USA            | First loop             | 98f030e6 | MiSTer FPGA     | 2025-12-05 |
-| Super Mario Bros.   | World          | No continues, Warpless | 393a432f | MiSTer FPGA     | 2025-12-08 |
-| Battle Kid          | World (v2.110) | Hard mode, 482 deaths  | de68cfbb | MiSTer FPGA     | 2025-12-21 |
-| Adventures of Lolo  | USA            | -                      | 3d59cddd | MiSTer FPGA     | 2025-12-25 |
-|---------------------+----------------+------------------------+----------+-----------------+------------|
+|----------------------+----------------+------------------------+----------+-----------------+------------|
+| Game                 | Version        | Comment                | CRC      | Platform        |       Date |
+|----------------------+----------------+------------------------+----------+-----------------+------------|
+| Zelda II             | USA            | -                      | ba322865 | FCEUX 2.6.6     | 2024-12-28 |
+| Ninja Gaiden         | USA            | -                      | 7c4a72d8 | Nestopia 1.53.0 | 2024-12-29 |
+| Ninja Gaiden II      | USA            | -                      | 0c39b026 | MiSTer FPGA     | 2025-11-28 |
+| Mega Man             | USA            | -                      | 6ee4bb0a | Nestopia 1.53.0 | 2024-12-31 |
+| Mega Man 2           | USA            | Hard mode              | 0fcfc04d | Nestopia 1.53.0 | 2025-01-02 |
+| Mega Man 3           | USA            | -                      | 45134a3e | MiSTer FPGA     | 2025-11-30 |
+| Mega Man 4           | USA (Rev 1)    | -                      | 7abbbf23 | MiSTer FPGA     | 2025-12-06 |
+| Street Fighter 2010  | USA            | -                      | 361fb3ee | MiSTer FPGA     | 2025-12-02 |
+| Castlevania          | USA (Rev 1)    | -                      | 12a6cb14 | MiSTer FPGA     | 2025-12-04 |
+| Metal Storm          | USA            | First loop             | 98f030e6 | MiSTer FPGA     | 2025-12-05 |
+| Super Mario Bros.    | World          | No continues, Warpless | 393a432f | MiSTer FPGA     | 2025-12-08 |
+| Battle Kid           | World (v2.110) | Hard mode, 482 deaths  | de68cfbb | MiSTer FPGA     | 2025-12-21 |
+| Adventures of Lolo   | USA            | -                      | 3d59cddd | MiSTer FPGA     | 2025-12-25 |
+| Adventures of Lolo 2 | USA            | No pro levels          | f4cc279a | MiSTer FPGA     | 2025-12-28 |
+|----------------------+----------------+------------------------+----------+-----------------+------------|
 
 ** N64
 
