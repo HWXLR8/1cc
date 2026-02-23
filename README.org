@@ -37,4 +37,5 @@ This is a list of games I have completed.
 | Progear No Arashi         | -        | Japan  |  12048770 | 1-ALL (BOLT/NAIL) | MiSTer FPGA | 2026-02-01 |
 | Mushihimesama             | Original | Earth  |   8435404 | ALL (M-POWER)     | Steam       | 2026-02-17 |
 | Mushihimesama Futari v1.5 | Original | Japan  | 164070409 | ALL               | Xbox 360    | 2026-02-20 |
+| Espgaluda II              | -        | Japan  |  32397325 | Stage 5 Boss      | Xbox 360    | 2026-02-23 |
 |---------------------------+----------+--------+-----------+-------------------+-------------+------------|
