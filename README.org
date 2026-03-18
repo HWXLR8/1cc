@@ -29,13 +29,14 @@ This is a list of games I have completed.
 | Majora's Mask | USA    | All masks | b428d8a7 | 2ship2harkinian 7ub824b | 2025-09-29 |
 |---------------+--------+-----------+----------+-------------------------+------------|
 
-** Arcade
+** Shmup
 
-|---------------------------+----------+--------+-----------+-------------------+-------------+------------|
-| Game                      | Mode     | Region |     Score | Comment           | Platform    |       Date |
-|---------------------------+----------+--------+-----------+-------------------+-------------+------------|
-| Progear No Arashi         | -        | Japan  |  12048770 | 1-ALL (BOLT/NAIL) | MiSTer FPGA | 2026-02-01 |
-| Mushihimesama             | Original | Earth  |   8435404 | ALL (M-POWER)     | Steam       | 2026-02-17 |
-| Mushihimesama Futari v1.5 | Original | Japan  | 164070409 | ALL               | Xbox 360    | 2026-02-20 |
-| Espgaluda II              | -        | Japan  |  32397325 | Stage 5 Boss      | Xbox 360    | 2026-02-23 |
-|---------------------------+----------+--------+-----------+-------------------+-------------+------------|
+|-----------------------------+----------+--------+------------+----------+------------+-------------+------------|
+| Game                        | Mode     | Region |      Score | Stage    | Ship       | Platform    |       Date |
+|-----------------------------+----------+--------+------------+----------+------------+-------------+------------|
+| Progear No Arashi           | -        | Japan  |   12048770 | 1-ALL    | BOLT/NAIL  | MiSTer FPGA | 2026-02-01 |
+| Mushihimesama               | Original | Earth  |    8435404 | ALL      | M-POWER    | Steam       | 2026-02-17 |
+| Mushihimesama Futari v1.5   | Original | Japan  |  164070409 | ALL      | Reco       | Xbox 360    | 2026-02-20 |
+| Espgaluda II                | Xbox 360 | Japan  |   32397325 | 5 (Boss) | Ageha      | Xbox 360    | 2026-02-23 |
+| Dodonpachi Daifukkatsu v1.5 | Xbox 360 | Japan  | 2953446626 | ALL      | TYPE-C STR | Xbox 360    | 2026-03-18 |
+|-----------------------------+----------+--------+------------+----------+------------+-------------+------------|
