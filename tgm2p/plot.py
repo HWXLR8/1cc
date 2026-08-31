@@ -1,18 +1,32 @@
 #!/usr/bin/env python3
-import csv, subprocess
+import csv
+import io
+import matplotlib.pyplot as plt
+import numpy as np
 
-vals = [int(v) for row in csv.reader(open('log.csv')) for v in row[1:] if v.strip()]
-data = '\n'.join(f'{i} {v}' for i, v in enumerate(vals))
+def _vals(text):
+    for row in csv.reader(io.StringIO(text)):
+        if not row or not row[0]:
+            continue
+        d = row[0]
+        for v in row[1:]:
+            try:
+                yield d, int(v)
+            except ValueError:
+                continue
 
-subprocess.run(['gnuplot', '--persist', '-'], text=True, input=f"""
-$DATA << EOD
-{data}
-EOD
-set fit nolog
-a = 1; b = 1
-f(x) = a*x + b
-fit f(x) $DATA using 1:2 via a, b
-set title sprintf("y = %.4f x + %.2f", a, b)
-set grid
-plot $DATA using 1:2 with lines title 'level', f(x) title 'fit'
-""")
+rows = list(_vals(open('log.csv').read()))
+
+x = np.arange(len(rows))
+y = np.array([v for _, v in rows])
+dates = [d for d, _ in rows]
+
+a, b = np.polyfit(x, y, 1)
+
+fig, ax = plt.subplots()
+ax.plot(x, y)
+ax.plot(x, a * x + b, 'k-', label=f'y = {a:.4f}x + {b:.2f}')
+ax.legend()
+ax.set_title('Level log')
+plt.tight_layout()
+plt.show()
